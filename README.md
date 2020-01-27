@@ -12,7 +12,7 @@ This ontology may also be of interest to other cultural (heritage) institutions
 which use digital applications for the education of their audience.
 
 The ontology is used as basis for the data model in the app "entermuseum4punkt0", which refers to: 
-https://github.com/fdiehr/entermuseum4punkt0
+https://github.com/museum4punkt0/enter-app
 
 ## Project
 This ontology is part of the project museum4punkt0 -
